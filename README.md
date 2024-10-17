@@ -2,5 +2,5 @@ Primera Entrega
 
 ![Ejecucion](assets/Ejecucion.png)
 
-![Resultado](assets/Resultado.jpg)
+![Resultado](assets/Resultado.jpeg)
 
